@@ -20,4 +20,6 @@ Other        2 hrs 28 mins   █████░░░░░░░░░░░░
 OS:
 Windows      17 hrs 5 mins   ██████████████████████   100.00%
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" /> <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" /> </p>
+<!-- ========================= TECH STACK ========================= -->
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,sklearn,tensorflow,pytorch,linux,git,vscode" /> </p>
