@@ -1,55 +1,66 @@
-<h1 align="center">Hi 👋, I'm ZAMIR</h1>
-<h3 align="center">Data Science | ML | Systems</h3>
+```
+$ celefetch
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DCFBA&width=435&lines=alexdev%40github;Python+%7C+Data+Science;Always+learning..." alt="Typing SVG" />
 
-```bash
-$ whoami
-ZAMIR
+```
+         '''
+      ',,      ,;cc;'
+      ';;;,'     'l0NWWKl'
+      ';c:,      'oXMMMMMXd,
+      ,;C:,     ,dNMMMMMMMNx,
+      ',clc,   ,xNMMWXOONMMWk;
+      ';cll;' ;OWMMNxc,,dNMMW0:'
+      ;clll;'  ':0WMMNd,  'oXMMW0c'
+      ,cllll;'  'cKMMMXo'  '1KMMMKc'
+    ';lllll:'  '1XMMMKl'  'cKMMMKc'  '''
+    ';llllll::'0WMW0c'      'cKWWNx, ;;;,
+     ':llloool::cx0k:           ':doc:::::;'
+      ':llooooool:::,           ',::cllc:,'
+      ,clooooooooolcc:;;;;;;;:cllodoc::lk0o'
+       ,;loooooooooodddddddddddddlc;, ,xNMMXo'
+        ',:clooooddddddddddddoolc::,'  :0WMMXl'
+          ',:;;;;;;;;;;;;;,''         ;xXX0c
+                                       ',;,
 
-$ uptime
-Learning & building consistently
+alexdev@github
+----------
+Uptime:                ∞ years
+Programming languages: Python, SQL
+OS:                    Ubuntu 22.04 LTS
+Shell:                 Zsh
+Editor:                VS Code / Neovim
+Hobby:                 data, music, hiking
+Other:                 ML enthusiast & open source contributor
 
-$ skills
-Python, C++, Machine Learning, Data Analysis
-
-$ os
-Windows / Linux
-
-$ tools
-VS Code, Jupyter, Git, Docker
-
-$ interests
-AI, Networking, Systems Design, Trading
-
-$ currently
-Building ML models, exploring systems, hackathons
+contacts
+--------
+GitHub:   github.com/alexdev
+LinkedIn: linkedin.com/in/alexdev
+Email:    alex@example.com
 ```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<!--START_SECTION:waka-->
+```text
+⌚ Timezone: Asia/Calcutta
 
----
+📊 Languages:
+Python       8 hrs 42 mins   ████████████████████░░░░░   52.30%
+SQL          3 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   19.60%
+Bash         2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   13.10%
+Markdown     1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░    8.00%
+YAML           47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    4.70%
 
-## 🚀 Projects
-- 🔹 A* Algorithm Visualizer  
-- 🔹 Packet Sniffer (Java + Jpcap)  
-- 🔹 Custom VPN (Python, AES-256, UDP)  
-- 🔹 Trader Sentiment Analysis  
+🔥 Editors:
+VS Code      9 hrs 50 mins   ████████████████████████░   59.20%
+Neovim       5 hrs 2 mins    ████████████░░░░░░░░░░░░░   30.30%
+Jupyter      1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░    9.60%
 
----
-
-## 📫 Contact
-- Email: your@email.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/YOUR_USERNAME  
-
----
-
-## ⚡ Fun Fact
-I build things that combine **data + systems + performance**
+💻 Operating Systems:
+Linux       16 hrs 27 mins   ████████████████████████░   99.00%
+Windows         10 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░    1.00%
+```
+<!--END_SECTION:waka-->
