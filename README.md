@@ -1,3 +1,4 @@
+```bash
 $ celefetch
 
      #### ### #### #### ###                         456zamir8@github
@@ -16,7 +17,7 @@ $ celefetch
      #### # #      #    ###                         Email: zamirmolla77@gmail.com
           ###  ### ####    
           ### #### ####
-
+```
 ## ⏱ Coding Stats
 
 <!--START_SECTION:waka-->
